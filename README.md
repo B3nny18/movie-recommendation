@@ -1,8 +1,8 @@
-# Movie Recommendation System 🎬
+# Movie Recommendation System 
 
 This is a content-based movie recommendation system developed as part of a data science project. It analyzes metadata such as genres, keywords, language, and cast to generate personalized movie suggestions.
 
-## 📊 Features
+## Features
 
 - Reads and processes movie metadata from CSV and JSON files
 - Allows users to filter movies based on:
@@ -14,7 +14,7 @@ This is a content-based movie recommendation system developed as part of a data 
 - Returns top 10 recommended movies using Pandas-based scoring
 - Includes various data visualizations (e.g., bar plots, box plots, 3D line plots)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - Pandas
@@ -22,7 +22,7 @@ This is a content-based movie recommendation system developed as part of a data 
 - Jupyter Notebook
 - CSV & JSON parsing
 
-## 📁 Dataset Files
+## Dataset Files
 
 The system uses the following files as part of its dataset:
 
@@ -34,7 +34,7 @@ The system uses the following files as part of its dataset:
 - `person.csv`
 - And more (see full file list in repo)
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
